@@ -1,0 +1,14 @@
+luces_comedor = 0
+luces_mueble = 1
+luces_Sofa = 2
+luces_mesa = 3
+persianas = 4
+aire_acondicionado = 5
+radiador = 6
+televisor = 7
+cadena_Musica = 8
+blueRay = 9
+
+
+tiempo_mc  = 10
+tiempo_br = 11
